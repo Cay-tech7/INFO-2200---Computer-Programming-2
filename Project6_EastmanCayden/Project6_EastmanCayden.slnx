@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/images/">
+    <File Path="ClientApp/uvu_icon.png" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="ClientApp/uvu_icon.png" />
+  </Folder>
+  <Project Path="ClientApp/ClientApp.csproj" />
+  <Project Path="ServerApp/ServerApp.csproj" />
+</Solution>

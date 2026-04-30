@@ -1,0 +1,22 @@
+4/2/2026 2:52:49 PM	INFO	Text files imported successfully
+4/2/2026 2:52:49 PM	INFO	Server started listening on 127.0.0.1:11000
+4/2/2026 2:52:53 PM	INFO	Received from client: Fact
+4/2/2026 2:52:53 PM	INFO	Sending to client: Fact: Average class size of 23 students
+4/2/2026 2:52:54 PM	INFO	Received from client: Fact
+4/2/2026 2:52:54 PM	INFO	Sending to client: Fact: Over 20 Master's degrees
+4/2/2026 2:52:54 PM	INFO	Received from client: Fact
+4/2/2026 2:52:54 PM	INFO	Sending to client: Fact: Over 75% of students work while in school
+4/2/2026 2:52:56 PM	INFO	Received from client: bob
+4/2/2026 2:52:56 PM	WARNING	Invalid request from client: bob
+4/2/2026 2:53:00 PM	INFO	Received from client: course
+4/2/2026 2:53:00 PM	INFO	Sending to client: Course: METO,Meteorology
+4/2/2026 2:53:01 PM	INFO	Received from client: course
+4/2/2026 2:53:01 PM	INFO	Sending to client: Course: FIN,Finance
+4/2/2026 2:55:04 PM	INFO	Text files imported successfully
+4/2/2026 2:55:04 PM	INFO	Server started listening on 127.0.0.1:11000
+4/2/2026 2:55:09 PM	INFO	Received from client: bob
+4/2/2026 2:55:09 PM	WARNING	Invalid request from client: bob
+4/2/2026 2:55:14 PM	INFO	Received from client: Course
+4/2/2026 2:55:14 PM	INFO	Sending to client: Course: EGDT,Engineering Graphics and Design Technology
+4/2/2026 2:55:15 PM	INFO	Received from client: Course
+4/2/2026 2:55:15 PM	INFO	Sending to client: Course: MUSC,Music
