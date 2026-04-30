@@ -1,0 +1,11 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\bin\Debug\Project4_EastmanCayden.exe.config
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\bin\Debug\Project4_EastmanCayden.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\bin\Debug\Project4_EastmanCayden.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.csproj.AssemblyReference.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.Form1.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.MovieCategoryForm.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.Properties.Resources.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.csproj.GenerateResource.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project4_EastmanCayden\obj\Debug\Project4_EastmanCayden.pdb

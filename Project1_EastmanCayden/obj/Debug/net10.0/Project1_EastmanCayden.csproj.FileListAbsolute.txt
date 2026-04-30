@@ -1,0 +1,14 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\bin\Debug\net10.0\Project1_EastmanCayden.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\bin\Debug\net10.0\Project1_EastmanCayden.deps.json
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\bin\Debug\net10.0\Project1_EastmanCayden.runtimeconfig.json
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\bin\Debug\net10.0\Project1_EastmanCayden.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\bin\Debug\net10.0\Project1_EastmanCayden.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.AssemblyInfoInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.AssemblyInfo.cs
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\refint\Project1_EastmanCayden.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\Project1_EastmanCayden.genruntimeconfig.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Project1_EastmanCayden\obj\Debug\net10.0\ref\Project1_EastmanCayden.dll

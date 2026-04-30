@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\coyote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:coyote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\ferret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:ferret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\project3_caydeneastman\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720CBAE-2CC1-EE23-C6D2-69A6BD5C8553}|Project3_CaydenEastman.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:01:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:53:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ferret.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Ferret.cs",
+              "RelativeDocumentMoniker": "Ferret.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Ferret.cs",
+              "RelativeToolTip": "Ferret.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:52:58.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-13T19:53:11.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:52:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:53:05.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coyote.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Coyote.cs",
+              "RelativeDocumentMoniker": "Coyote.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Project3_CaydenEastman\\Coyote.cs",
+              "RelativeToolTip": "Coyote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:53:05.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
