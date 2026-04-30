@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Participation2_EastmanCayden/1.0.0": {
+        "runtime": {
+          "Participation2_EastmanCayden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Participation2_EastmanCayden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

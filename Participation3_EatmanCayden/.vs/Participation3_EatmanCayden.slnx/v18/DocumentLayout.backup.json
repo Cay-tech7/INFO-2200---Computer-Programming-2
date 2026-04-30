@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:shrub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\plantdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:plantdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\plantdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:plantdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation3_eatmancayden\\participation3_eatmancayden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CCD7DE0-6790-4810-9F08-30ED6C141052}|Participation3_EatmanCayden.csproj|solutionrelative:participation3_eatmancayden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T16:50:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:50:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlantDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\PlantDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PlantDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\PlantDetailsWindow.xaml.cs",
+              "RelativeToolTip": "PlantDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:20:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlantDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\PlantDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "PlantDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\PlantDetailsWindow.xaml",
+              "RelativeToolTip": "PlantDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T17:19:51.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shrub.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Shrub.cs",
+              "RelativeDocumentMoniker": "Shrub.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Shrub.cs",
+              "RelativeToolTip": "Shrub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:36:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Plant.cs",
+              "RelativeDocumentMoniker": "Plant.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Plant.cs",
+              "RelativeToolTip": "Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:10:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Tree.cs",
+              "RelativeDocumentMoniker": "Tree.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Tree.cs",
+              "RelativeToolTip": "Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:37:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Flower.cs",
+              "RelativeDocumentMoniker": "Flower.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Flower.cs",
+              "RelativeToolTip": "Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:37:18.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Participation3_EatmanCayden",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Participation3_EatmanCayden.csproj",
+              "RelativeDocumentMoniker": "Participation3_EatmanCayden.csproj",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation3_EatmanCayden\\Participation3_EatmanCayden.csproj",
+              "RelativeToolTip": "Participation3_EatmanCayden.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T17:19:36.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

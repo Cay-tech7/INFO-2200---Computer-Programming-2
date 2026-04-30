@@ -1,0 +1,4 @@
+﻿Apple,iPhone 14, 6.1,256,799
+Samsung,Galaxy S22, 6.2,128,799
+Google,Pixel 6, 6.4,128,599
+OnePlus,9 Pro, 6.7,256,969

@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\mo2-assignment2eastmancayden\\detailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|solutionrelative:detailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\mo2-assignment2eastmancayden\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\mo2-assignment2eastmancayden\\detailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|solutionrelative:detailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\mo2-assignment2eastmancayden\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\mo2-assignment2eastmancayden\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF38303-B9BA-EF29-5A0C-48D5213214B5}|MO2-Assignment2EastmanCayden.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:47:46.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\DetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\DetailsWindow.xaml.cs",
+              "RelativeToolTip": "DetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:41:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\DetailsWindow.xaml",
+              "RelativeDocumentMoniker": "DetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\DetailsWindow.xaml",
+              "RelativeToolTip": "DetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T23:18:48.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T23:08:44.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\MO2-Assignment2EastmanCayden\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:08:43.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

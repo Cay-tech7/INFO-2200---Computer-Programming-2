@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\phonedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:phonedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\phonedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:phonedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\obj\\debug\\net10.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:obj\\debug\\net10.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|c:\\users\\cayde\\documents\\uvu spring 2026\\ifno 2200 - computer programming 2\\participation2_eastmancayden\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D101174-92FE-E6D5-7FBB-AD8F39287609}|Participation2_EastmanCayden.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\obj\\Debug\\net10.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net10.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\obj\\Debug\\net10.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net10.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T23:18:58.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\PhoneDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhoneDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\PhoneDetailsWindow.xaml.cs",
+              "RelativeToolTip": "PhoneDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:29:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\PhoneDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "PhoneDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\PhoneDetailsWindow.xaml",
+              "RelativeToolTip": "PhoneDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-23T18:20:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:49:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T23:24:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cayde\\Documents\\UVU Spring 2026\\IFNO 2200 - Computer Programming 2\\Participation2_EastmanCayden\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T05:49:54.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

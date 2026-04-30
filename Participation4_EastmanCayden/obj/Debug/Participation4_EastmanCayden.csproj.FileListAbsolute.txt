@@ -1,0 +1,17 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\LocalPhoneListDb.mdf
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\LocalPhoneListDb_log.ldf
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\Participation4_EastmanCayden.exe.config
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\Participation4_EastmanCayden.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\Participation4_EastmanCayden.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.csproj.AssemblyReference.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.Form1.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.LocalPhoneForm.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.Properties.Resources.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.csproj.GenerateResource.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\UVUPhoneNums.mdf
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\bin\Debug\UVUPhoneNums_log.ldf
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.ImportedPhoneForm.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation4_EastmanCayden\obj\Debug\Participation4_EastmanCayden.OnlinePhoneForm.resources

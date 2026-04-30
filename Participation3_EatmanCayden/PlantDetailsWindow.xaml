@@ -1,0 +1,110 @@
+﻿<!--
+    //Name: Cayden Eastman
+//Class: INFO 2200
+//Section: x01
+//Professor: Say
+//Date: 02/5/2026
+//Participation or Assignment #: Participation 3
+
+//By submitting this assignment, I declare that the source code contained in this assignment was written solely by me,
+//unless specifically provided in the assignment. I attest that no part of this assignment, in whole or in part,
+//was directly created by Generative AI, unless explicitly stated in the assignment instructions,
+//nor obtained from a subscription service. I understand that copying any source code, in whole or in part,
+//unless specifically provided in the assignment, constitutes cheating,
+//and that I will receive a zero on this project if I am found in violation of this policy.
+    
+    -->
+    
+    <Window x:Class="Participation3_EatmanCayden.PlantDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Participation3_EatmanCayden"
+        mc:Ignorable="d"
+        Title="PlantDetailsWindow" Height="450" Width="800">
+
+    <Grid Background="DarkGray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--Labels, column 0-->
+        <Label Content="Name:"
+         Grid.Row="0"
+         Grid.Column="0"
+         Margin="5"
+         FontSize="30"
+         HorizontalAlignment="Right"
+         VerticalAlignment="Center" />
+        
+        <Label Content="Environment:"
+         Grid.Row="1"
+         Grid.Column="0"
+         Margin="5"
+         FontSize="30"
+         HorizontalAlignment="Right"
+         VerticalAlignment="Center" />
+        
+        <Label Content="Type:"
+         Grid.Row="2"
+         Grid.Column="0"
+         Margin="5"
+         FontSize="30"
+         HorizontalAlignment="Right"
+         VerticalAlignment="Center" />
+
+        <!--Result labels, column 1-->
+        <Label x:Name="LabelName"
+         Grid.Row="0"
+         Grid.Column="1"
+         Margin="5"
+         Content="Results..."
+         FontSize="30"
+         HorizontalAlignment="Left"
+         VerticalAlignment="Center" />
+        
+        <Label x:Name="LabelEnvironment"
+         Grid.Row="1"
+         Grid.Column="1"
+         Margin="5"
+         Content="Results..."
+         FontSize="30"
+         HorizontalAlignment="Left"
+         VerticalAlignment="Center" />
+        
+        <Label x:Name="LabelType"
+         Grid.Row="2"
+         Grid.Column="1"
+         Margin="5"
+         Content="Results..."
+         FontSize="30"
+         HorizontalAlignment="Left"
+         VerticalAlignment="Center" />
+
+        <!--Buttons-->
+        <Button x:Name="ButtonSniff"
+          Content="Sniff"
+          Grid.Row="3"
+          Grid.Column="0"
+          Margin="30"
+          FontSize="30"
+          Click="ButtonSniff_Click" />
+        
+        <Button x:Name="ButtonPunch"
+          Content="Punch"
+          Grid.Row="3"
+          Grid.Column="1"
+          Margin="30"
+          FontSize="30"
+          Click="ButtonPunch_Click" />
+
+    </Grid>
+</Window>

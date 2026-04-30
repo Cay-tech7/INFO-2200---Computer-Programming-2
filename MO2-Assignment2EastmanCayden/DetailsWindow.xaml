@@ -1,0 +1,299 @@
+﻿<Window x:Class="MO2_Assignment2EastmanCayden.DetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MO2_Assignment2EastmanCayden"
+        mc:Ignorable="d"
+        Title="Food Details" Height="500
+        " Width="800">
+    
+    <!--Stack panels are used to stack elements on top of each other, in this case, we are stacking two groupboxes on top of each other-->
+    
+    <StackPanel>
+        <!--Groupbox 1-->
+        <GroupBox Header="Food Info">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+              
+                <!--Column 0 labels-->
+                    <Label Content="Food Name:"
+                       Grid.Row="0"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Food Type:"
+                       Grid.Row="1"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Serving Size:"
+                       Grid.Row="2"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Weight:"
+                       Grid.Row="3"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Percent Water:"
+                       Grid.Row="4"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Calories:"
+                       Grid.Row="5"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Protein:"
+                       Grid.Row="6"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Carbohydrates:"
+                       Grid.Row="7"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                    <Label Content="Fiber:"
+                       Grid.Row="8"
+                       Grid.Column="0"
+                       FontWeight="Bold"/>
+                
+                    <!--Column 2 food values-->
+                <Label x:Name="LabelFoodName"
+                           Grid.Row="0"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelFoodType"
+                           Grid.Row="1"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelServingSize"
+                           Grid.Row="2"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelWeight"
+                           Grid.Row="3"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelPercentWater"
+                           Grid.Row="4"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelCalories"
+                           Grid.Row="5"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelProtein"
+                           Grid.Row="6"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelCarbohydrates"
+                           Grid.Row="7"
+                           Grid.Column="1"
+                           Content="Results..."/>
+                <Label x:Name="LabelFiber"
+                           Grid.Row="8"
+                           Grid.Column="1"
+                           Content="Results..."/>
+
+                <!--Column 2, Food labels-->
+                <Label Content="Cholesterol:"
+                       Grid.Row="0"
+                       Grid.Column="2"
+                       FontWeight="Bold"/>
+                <Label Content="Total Fat:"
+                       Grid.Row="1"
+                       Grid.Column="2"
+                       FontWeight="Bold"/>
+                <Label Content="Saturated Fat:"
+                       Grid.Row="2"
+                       Grid.Column="2"
+                       FontWeight="Bold"/>
+                <Label Content="Monosaturated Fat:"
+                       Grid.Row="3"
+                       Grid.Column="2"
+                       FontWeight="Bold"/>
+                <Label Content="Polyunsaturated Fat:"
+                       Grid.Row="4"
+                       Grid.Column="2"
+                       FontWeight="Bold"/>
+                
+                <!--column 3, food values-->
+                <Label x:Name="LabelCholesterol"
+                           Grid.Row="0"
+                           Grid.Column="3"
+                           Content="Results..."/>
+                <Label x:Name="LabelTotalFat"
+                            Grid.Row="1"
+                            Grid.Column="3"
+                            Content="Results..."/>
+                <Label x:Name="LabelSaturatedFat"
+                            Grid.Row="2"
+                            Grid.Column="3"
+                            Content="Results..."/>
+                <Label x:Name="LabelMonosaturatedFat"
+                            Grid.Row="3"
+                            Grid.Column="3"
+                            Content="Results..."/>
+                <Label x:Name="LabelPolyunsaturatedFat"
+                            Grid.Row="4"
+                            Grid.Column="3"
+                            Content="Results..."/>
+            </Grid>
+        </GroupBox>
+
+        <!--Groupbox 2-->
+        <!--Nutrition Details groupbox and grid-->
+        <GroupBox Header="Nutrition Details">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <!--Nutrition Details, Column 0-->
+                <Label Content="Calcium"
+               Grid.Row="0"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Iron"
+               Grid.Row="1"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Magnesium"
+               Grid.Row="2"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Sodium"
+               Grid.Row="3"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Phosphorus"
+               Grid.Row="4"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Cap Ratio"
+               Grid.Row="5"
+               Grid.Column="0"
+               FontWeight="Bold" />
+                <Label Content="Potassium"
+               Grid.Row="6"
+               Grid.Column="0"
+               FontWeight="Bold" />
+
+                <!--Nutrition Details, Column 1-->
+                <Label x:Name="LabelCalcium"
+               Grid.Row="0"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelIron"
+               Grid.Row="1"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelMagnesium"
+               Grid.Row="2"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelSodium"
+               Grid.Row="3"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelPhosphorus"
+               Grid.Row="4"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelCapRatio"
+               Grid.Row="5"
+               Grid.Column="1"
+               Content="Results..." />
+                <Label x:Name="LabelPotassium"
+               Grid.Row="6"
+               Grid.Column="1"
+               Content="Results..." />
+
+                <!--Nutrition Details, Column 2-->
+                <Label Content="Zinc"
+               Grid.Row="0"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="Niacin"
+               Grid.Row="1"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="Thiamin"
+               Grid.Row="2"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="Riboflavin"
+               Grid.Row="3"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="VitaminA"
+               Grid.Row="4"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="VitaminB6"
+               Grid.Row="5"
+               Grid.Column="2"
+               FontWeight="Bold" />
+                <Label Content="VitaminC"
+               Grid.Row="6"
+               Grid.Column="2"
+               FontWeight="Bold" />
+
+                <!--Nutrition Details, Column 3-->
+                <Label x:Name="LabelZinc"
+               Grid.Row="0"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelNiacin"
+               Grid.Row="1"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelThiamin"
+               Grid.Row="2"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelRiboflavin"
+               Grid.Row="3"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelVitaminA"
+               Grid.Row="4"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelVitaminB6"
+               Grid.Row="5"
+               Grid.Column="3"
+               Content="Results..." />
+                <Label x:Name="LabelVitaminC"
+               Grid.Row="6"
+               Grid.Column="3"
+               Content="Results..." />
+            </Grid>
+        </GroupBox>
+    </StackPanel>
+</Window>

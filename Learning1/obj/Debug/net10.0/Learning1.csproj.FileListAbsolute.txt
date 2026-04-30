@@ -1,0 +1,14 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.AssemblyInfoInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.AssemblyInfo.cs
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\bin\Debug\net10.0\Learning1.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\bin\Debug\net10.0\Learning1.deps.json
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\bin\Debug\net10.0\Learning1.runtimeconfig.json
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\bin\Debug\net10.0\Learning1.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\bin\Debug\net10.0\Learning1.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\refint\Learning1.dll
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\Learning1.genruntimeconfig.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Learning1\obj\Debug\net10.0\ref\Learning1.dll
