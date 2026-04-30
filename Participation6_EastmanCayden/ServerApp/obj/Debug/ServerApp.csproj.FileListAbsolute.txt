@@ -1,0 +1,7 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ServerApp\obj\Debug\ServerApp.pdb

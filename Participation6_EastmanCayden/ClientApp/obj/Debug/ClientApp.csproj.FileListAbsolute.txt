@@ -1,0 +1,15 @@
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\App.g.cs
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\MainWindow.baml
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\cayde\Documents\UVU Spring 2026\IFNO 2200 - Computer Programming 2\Participation6_EastmanCayden\ClientApp\obj\Debug\ClientApp.pdb

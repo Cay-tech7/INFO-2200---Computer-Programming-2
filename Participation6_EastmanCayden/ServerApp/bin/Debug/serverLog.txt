@@ -1,0 +1,14 @@
+3/27/2026 12:34:05 PM	INFO	Text files imported successfully
+3/27/2026 12:34:05 PM	INFO	Server started listening on 127.0.0.1:11000
+3/27/2026 12:34:12 PM	INFO	Received from client: joke
+3/27/2026 12:34:12 PM	INFO	Sending to client: Joke: There are 10 kinds of people in this world: those who understand binary and those who don't.
+3/27/2026 12:34:13 PM	INFO	Received from client: joke
+3/27/2026 12:34:13 PM	INFO	Sending to client: Joke: What did the programmer say when they were born?    Hello world
+3/27/2026 12:34:16 PM	INFO	Received from client: conspiracy
+3/27/2026 12:34:16 PM	INFO	Sending to client: Conspiracy: Finland doesn't exist
+3/27/2026 12:34:17 PM	INFO	Received from client: conspiracy
+3/27/2026 12:34:17 PM	INFO	Sending to client: Conspiracy: The Aids virus was created in a laboratory by the World Health Organization (WHO).
+3/27/2026 12:34:18 PM	INFO	Received from client: conspiracies
+3/27/2026 12:34:18 PM	WARNING	Invalid request from client: conspiracies
+3/27/2026 12:34:41 PM	INFO	Text files imported successfully
+3/27/2026 12:34:41 PM	INFO	Server started listening on 127.0.0.1:11000

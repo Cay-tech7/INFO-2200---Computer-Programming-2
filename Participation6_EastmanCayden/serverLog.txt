@@ -1,0 +1,30 @@
+3/27/2026 12:36:17 PM	INFO	Text files imported successfully
+3/27/2026 12:36:17 PM	INFO	Server started listening on 127.0.0.1:11000
+3/27/2026 12:36:22 PM	INFO	Received from client: the duck
+3/27/2026 12:36:22 PM	WARNING	Invalid request from client: the duck
+3/27/2026 12:37:02 PM	INFO	Text files imported successfully
+3/27/2026 12:37:02 PM	INFO	Server started listening on 127.0.0.1:11000
+3/27/2026 12:37:07 PM	INFO	Received from client: joke
+3/27/2026 12:37:07 PM	INFO	Sending to client: Joke: What's the object-oriented way to become wealthy?   Inheritance
+3/27/2026 12:37:09 PM	INFO	Received from client: joke
+3/27/2026 12:37:09 PM	INFO	Sending to client: Joke: What's the object-oriented way to become wealthy?   Inheritance
+3/27/2026 12:37:13 PM	INFO	Received from client: conspiracy
+3/27/2026 12:37:13 PM	INFO	Sending to client: Conspiracy: Pearl harbor bombing was allowed to happen so the US could enter the war.
+3/27/2026 12:37:14 PM	INFO	Received from client: conspiracy
+3/27/2026 12:37:14 PM	INFO	Sending to client: Conspiracy: Pearl harbor bombing was allowed to happen so the US could enter the war.
+3/27/2026 12:37:15 PM	INFO	Received from client: conspiracies
+3/27/2026 12:37:15 PM	WARNING	Invalid request from client: conspiracies
+3/27/2026 12:38:22 PM	INFO	Text files imported successfully
+3/27/2026 12:38:22 PM	INFO	Server started listening on 127.0.0.1:11000
+3/27/2026 12:38:25 PM	INFO	Received from client: joke
+3/27/2026 12:38:25 PM	INFO	Sending to client: Joke: How long does a loop last?  For a while
+3/27/2026 12:38:25 PM	INFO	Received from client: joke
+3/27/2026 12:38:25 PM	INFO	Sending to client: Joke: How many programmers does it take to change a lightbulb? None, that's a hardware problem
+3/27/2026 12:38:27 PM	INFO	Received from client: conspiracy
+3/27/2026 12:38:27 PM	INFO	Sending to client: Conspiracy: The 2004 Indian Ocean tsunami was caused by an American and Israeli nuclear experiment.
+3/27/2026 12:38:28 PM	INFO	Received from client: conspiracy
+3/27/2026 12:38:28 PM	INFO	Sending to client: Conspiracy: Nasa faked the moon landings
+3/27/2026 12:38:29 PM	INFO	Received from client: conspiracies
+3/27/2026 12:38:29 PM	WARNING	Invalid request from client: conspiracies
+3/27/2026 12:38:29 PM	INFO	Received from client: conspiracies
+3/27/2026 12:38:29 PM	WARNING	Invalid request from client: conspiracies
