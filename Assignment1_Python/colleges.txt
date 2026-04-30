@@ -1,0 +1,76 @@
+College, City
+University of Alaska Anchorage,Anchorage
+University of Alaska Fairbanks,Fairbanks
+University of Alaska Southeast,Juneau
+Alaska Pacific University,Anchorage
+Ilisagvik College,Utqiagvik
+Arizona State University,Tempe
+University of Arizona,Tucson
+Northern Arizona University,Flagstaff
+Grand Canyon University,Phoenix
+Embry‑Riddle Aeronautical University‑Prescott,Prescott
+University of California Berkeley,Berkeley
+University of California Los Angeles,Los Angeles
+University of California San Diego,La Jolla
+University of California Davis,Davis
+University of California Irvine,Irvine
+University of California Santa Barbara,Santa Barbara
+University of California Santa Cruz,Santa Cruz
+University of California Riverside,Riverside
+University of California Merced,Merced
+California State University Fullerton,Fullerton
+California State University Long Beach,Long Beach
+California State University Los Angeles,Los Angeles
+California State University Northridge,Northridge
+California State University Sacramento,Sacramento
+California State Polytechnic University Pomona,Pomona
+California Polytechnic State University San Luis Obispo,San Luis Obispo
+Stanford University,Stanford
+University of Southern California,Los Angeles
+Pepperdine University,Malibu
+Santa Clara University,Santa Clara
+Loyola Marymount University,Los Angeles
+University of Colorado Boulder,Boulder
+Colorado State University,Fort Collins
+University of Denver,Denver
+Colorado School of Mines,Golden
+Metropolitan State University of Denver,Denver
+University of Hawaii at Manoa,Honolulu
+University of Hawaii at Hilo,Hilo
+Hawaii Pacific University,Honolulu
+Chaminade University of Honolulu,Honolulu
+University of Idaho,Moscow
+Boise State University,Boise
+Idaho State University,Pocatello
+College of Idaho,Caldwell
+University of Montana,Missoula
+Montana State University,Bozeman
+Montana Technological University,Butte
+Carroll College,Helena
+University of Nevada Reno,Reno
+University of Nevada Las Vegas,Las Vegas
+Nevada State University,Henderson
+University of New Mexico,Albuquerque
+New Mexico State University,Las Cruces
+New Mexico Institute of Mining and Technology,Socorro
+Eastern New Mexico University,Portales
+University of Oregon,Eugene
+Oregon State University,Corvallis
+Portland State University,Portland
+Lewis & Clark College,Portland
+Reed College,Portland
+University of Utah,Salt Lake City
+Utah State University,Logan
+Weber State University,Ogden
+Southern Utah University,Cedar City
+Utah Tech University,St. George
+Brigham Young University,Provo
+Westminster University,Salt Lake City
+Utah Valley University,Orem
+University of Washington,Seattle
+Washington State University,Pullman
+Western Washington University,Bellingham
+Eastern Washington University,Cheney
+Gonzaga University,Spokane
+Seattle University,Seattle
+University of Wyoming,Laramie
